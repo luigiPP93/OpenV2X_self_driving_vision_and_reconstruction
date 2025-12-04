@@ -1,0 +1,23 @@
+{
+  "total_energy_kwh": 0.1433983739851395,
+  "total_emissions_kg": 0,
+  "csv_report": "energy_reports/module_energy_report_20250902_135223.csv",
+  "baseline_cpu_percent": 3.9799999999999995,
+  "baseline_memory_mb": 1445.71484375,
+  "gpu_available": true,
+  "gpu_count": 2,
+  "baseline_gpu_utilization": [
+    0.0,
+    1.0
+  ],
+  "baseline_gpu_memory_mb": [
+    586.0,
+    4336.1875
+  ],
+  "baseline_gpu_power_w": [
+    27.4964,
+    30.538
+  ],
+  "timestamp": "2025-09-02T17:23:13.537416",
+  "total_frames_processed": 305700
+}
