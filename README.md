@@ -3,8 +3,8 @@
 ## System Architecture
 
 <img src="./img/Architecture_f.png" alt="System Architecture" width="1080"/>
-## Description
 
+Description:
 **OpenV2X** is a modular cyber-physical framework designed for real-time environmental perception and interactive feedback in software-defined vehicles. The system integrates vision-based perception with V2X communication capabilities to enable comprehensive scene reconstruction and human-in-the-loop feedback mechanisms.
 
 This framework addresses critical challenges in autonomous driving by providing:
@@ -192,4 +192,20 @@ This work remains open to extensions and improvements, including:
 - Additional sensor fusion capabilities
 - ASIL-compliant safety-critical module development
 
+### License
+```text
+Copyright 2024 LuigiPP
+
+   Licensed under the Apache License, Version 2.0 (the "License");
+   you may not use this file except in compliance with the License.
+   You may obtain a copy of the License at
+
+       http://www.apache.org/licenses/LICENSE-2.0
+
+   Unless required by applicable law or agreed to in writing, software
+   distributed under the License is distributed on an "AS IS" BASIS,
+   WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+   See the License for the specific language governing permissions and
+   limitations under the License.
+```
    
