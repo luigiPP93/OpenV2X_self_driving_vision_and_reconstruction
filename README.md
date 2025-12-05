@@ -1,5 +1,8 @@
 # OpenV2X Framework
 
+## System Architecture
+
+<img src="./img/Architecture_f.png" alt="System Architecture" width="1080"/>
 ## Description
 
 **OpenV2X** is a modular cyber-physical framework designed for real-time environmental perception and interactive feedback in software-defined vehicles. The system integrates vision-based perception with V2X communication capabilities to enable comprehensive scene reconstruction and human-in-the-loop feedback mechanisms.
@@ -63,10 +66,10 @@ The project uses the following libraries:
 
 ## Images
 
-<img src="./img/image1.png" alt="Image description" width="500"/>
-Example image of a driving scenario
+<img src="./img/immagine_pipline.png" alt="Image description" width="500"/>
+Example image of a driving scenario with pipline
 
-<img src="./img/image2.png" alt="Image description" width="500"/>
+<img src="./img/image_ultrafast.png" alt="Image description" width="500"/>
 Second example image of a driving scenario
 
 <img src="./img/gui.png" alt="Image description" width="400"/>
