@@ -192,6 +192,8 @@ This work remains open to extensions and improvements, including:
 - Additional sensor fusion capabilities
 - ASIL-compliant safety-critical module development
 
+
+
 ### License
 ```text
 Copyright 2024 LuigiPP
@@ -208,4 +210,24 @@ Copyright 2024 LuigiPP
    See the License for the specific language governing permissions and
    limitations under the License.
 ```
+
+## 📄 Citation
+
+If you use **OpenV2X** in your research or projects, please cite the following paper:
+
+**Castiglione, A., Cimmino, L., Nappi, M., Sica, L. E.**  
+*OpenV2X: A Modular Cyber-Physical Framework for Vision-Driven Environmental Perception and Interactive Feedback in Software-Defined Vehicles*  
+IEEE Transactions on Industrial Informatics, 2025.  
+DOI: https://doi.org/10.1109/TII.2025.3641528
+
+### BibTeX
+```bibtex
+@ARTICLE{11313331,
+  author={Castiglione, Aniello and Cimmino, Lucia and Nappi, Michele and Sica, Luigi Emanuele},
+  journal={IEEE Transactions on Industrial Informatics},
+  title={OpenV2X: A Modular Cyber-Physical Framework for Vision-Driven Environmental Perception and Interactive Feedback in Software-Defined Vehicles},
+  year={2025},
+  pages={1--11},
+  doi={10.1109/TII.2025.3641528}
+}
    
